@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hansung>
+   <floor name="1floor">
+      <class name="102">
+         <pc name="1"></pc>
+         <pc name=""></pc>
+         <pc name=""></pc>
+         <pc name=""></pc>
+         <pc name=""></pc>
+         <pc name=""></pc>
+         <pc name=""></pc>
+         <pc name=""></pc>
+         <pc name=""></pc>
+         <pc name=""></pc>
+         <pc name=""></pc>
+         <pc name=""></pc></class>
+      <class name="103">
+         <pc name="1"></pc>
+         
+         <client name="103-2">103-2</client>
+         <client name="103-3">103-3</client>
+         <client name="103-4">103-4</client>
+         <client name="103-5">103-5</client>
+         <client name="103-6">103-6</client>
+         <client name="103-7">103-7</client>
+         <client name="103-8">103-8</client>
+         <client name="103-9">103-9</client>
+         <client name="103-10">103-10</client>
+         <client name="103-11">103-11</client>
+      </class>
+   </floor>
+   <floor name="2floor">
+      <class name="201">
+         <client name="201-1">201-1</client>
+         <client name="201-2">201-2</client>
+         <client name="201-3">201-3</client>
+         <client name="201-4">201-4</client>
+         <client name="201-5">201-5</client>
+         <client name="201-6">201-6</client>
+         <client name="201-7">201-7</client>
+         <client name="201-8">201-8</client>
+         <client name="201-9">201-9</client>
+         <client name="201-10">201-10</client>
+      </class>
+      <class name="202">
+         <client name="202-1">202-1</client>
+         <client name="202-2">202-2</client>
+         <client name="202-3">202-3</client>
+         <client name="202-4">202-4</client>
+         <client name="202-5">202-5</client>
+         <client name="202-6">202-6</client>
+         <client name="202-7">202-7</client>
+         <client name="202-8">202-8</client>
+         <client name="202-9">202-9</client>
+      </class>
+   </floor>
+   <floor name="3floor">
+      <class name="305">
+         <client name="305-1">305-1</client>
+         <client name="305-2">305-2</client>
+         <client name="305-3">305-3</client>
+         <client name="305-4">305-4</client>
+         <client name="305-5">305-5</client>
+         <client name="305-6">305-6</client>
+         <client name="305-7">305-7</client>
+         <client name="305-8">305-8</client>
+         <client name="305-9">305-9</client>
+         <client name="309-10">309-10</client>
+      </class>
+      <class name="309">
+         <client name="309-1">309-1</client>
+         <client name="309-2">309-2</client>
+         <client name="309-3">309-3</client>
+         <client name="309-4">309-4</client>
+         <client name="309-5">309-5</client>
+         <client name="309-6">309-6</client>
+         <client name="309-7">309-7</client>
+         <client name="309-8">309-8</client>
+         <client name="309-9">309-9</client>
+         <client name="309-10">309-10</client>
+         <client name="309-11">309-11</client>
+         <client name="309-12">309-12</client>
+         <client name="309-13">309-13</client>
+         <client name="309-14">309-14</client>
+      </class>
+   </floor>
+</hansung>
+
+   <!-- <floor1>102</floor1> <floor1>103</floor1> <floor2>201</floor2> <floor2>202</floor2> 
+      <floor3>305</floor3> <floor3>309</floor3> <classes> <class201>40</class201> 
+      <class202>45</class202> <class305>45</class305> <class309>40</class309> </classes> -->
+
+
+
+<!-- <classes> <class>102</class> <class>103</class> <class>201</class> <class>202</class> 
+   <class>305</class> <class>309</class> </classes> -->
+
+<!-- <floor1> <class102>40</class102> <class103>45</class103> </floor1> <floor2> 
+   <class201>35</class201> <class202>40</class202> </floor2> <floor3> <class305>40</class305> 
+   <class309>45</class309> </floor3> -->
+   

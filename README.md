@@ -10,4 +10,4 @@
 </ul>
 
 ### MQTT 아키텍처
-![Image Load Fail](./images/Architecture.png = 100)
+<img src="./images/Architecture.png" width="150px" height="150px"/>

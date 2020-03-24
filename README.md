@@ -11,3 +11,6 @@
 
 ### MQTT 아키텍처
 <img src="./images/Architecture.png" width="450px" height="450px"/>
+
+- 모든 Publisher는 MQTT Broker에 메시지를 전송한다.
+- Subscriber가 Broker에게 특정 Publisher를 구독신청하면 Broker는 해당 Publisher의 메세지를 전송받는다. 

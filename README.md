@@ -8,3 +8,6 @@
     <li> 적용 기술 : MQTT, WMI, JNI, Bootstrap, AJax, JavaFx, Tomcat, MySQL </li>
     <li> 담당 분야 : Web Front-end, Back-end(Using MQTT Library ) </li>
 </ul>
+
+### MQTT 아키텍처
+![Image Load Fail](./images/Architecture.png)

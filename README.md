@@ -10,4 +10,4 @@
 </ul>
 
 ### MQTT 아키텍처
-<img src="./images/Architecture.png" width="150px" height="150px"/>
+<img src="./images/Architecture.png" width="450px" height="450px"/>

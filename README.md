@@ -6,5 +6,5 @@
     <li> 개발 언어 : C/C++, JAVA, HTML5/CSS/JavaScript </li>
     <li> 개발 도구 : Visual Studio, Eclipse, Sublime Text </li>
     <li> 적용 기술 : MQTT, WMI, JNI, Bootstrap, AJax, JavaFx, Tomcat, MySQL </li>
-    <li> 담당 분야 : MQTT, Web Front-end, Back-end(Using MQTT Library ) </li>
+    <li> 담당 분야 : Web Front-end, Back-end(Using MQTT Library ) </li>
 </ul>
